@@ -5,6 +5,8 @@
   img.webinar-logo {
     width: 50%;
     cursor: default;
+    margin:10px auto 0;
+    display:block;
   }
   .form-section-1 {
     background: #0093dd;
